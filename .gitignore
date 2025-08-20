@@ -1,0 +1,3 @@
+.venv/*
+example_vulnerability_simple/__pycache__/*
+tests/test_example_vulnerability_simple/__pycache__/*
