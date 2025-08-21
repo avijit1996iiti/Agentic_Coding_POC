@@ -1,5 +1,5 @@
 PyYAML==5.1
-pytest==8.4.1            # CVE-2017-18342: Safe loading of YAML files
-Flask==1.1.4          # CVE-2023-30861: cookie parsing vulnerability
+pytest==8.4.1            
+Flask==1.1.4          
 itsdangerous==1.1.0
-Werkzeug==0.16.1       # Works with Flask 1.1.4
+Werkzeug==0.16.1
